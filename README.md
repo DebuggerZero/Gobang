@@ -1,0 +1,2 @@
+# Gobang
+Qt-based games
