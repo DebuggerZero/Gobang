@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+*.idx
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/.qmake.stash
+*.pdb
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/.qtc_clangd/compile_commands.json
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/debug/Gobang.ilk
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/debug/moc_gmainwindow.cpp
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/debug/moc_gstartwindow.cpp
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/debug/moc_predefs.h
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/debug/qrc_res.cpp
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/Makefile
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/Makefile.Debug
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/ui_gmainwindow.h
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/Makefile.Release
+build-Gobang-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/ui_gstartwindow.h
